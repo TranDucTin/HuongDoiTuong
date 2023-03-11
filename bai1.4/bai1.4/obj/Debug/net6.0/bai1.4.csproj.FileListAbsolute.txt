@@ -1,0 +1,15 @@
+D:\HuongDoiTuong\bai1.4\bai1.4\bin\Debug\net6.0\bai1.4.exe
+D:\HuongDoiTuong\bai1.4\bai1.4\bin\Debug\net6.0\bai1.4.deps.json
+D:\HuongDoiTuong\bai1.4\bai1.4\bin\Debug\net6.0\bai1.4.runtimeconfig.json
+D:\HuongDoiTuong\bai1.4\bai1.4\bin\Debug\net6.0\bai1.4.dll
+D:\HuongDoiTuong\bai1.4\bai1.4\bin\Debug\net6.0\bai1.4.pdb
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\bai1.4.csproj.AssemblyReference.cache
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\bai1.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\bai1.4.AssemblyInfoInputs.cache
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\bai1.4.AssemblyInfo.cs
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\bai1.4.csproj.CoreCompileInputs.cache
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\bai1.4.dll
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\refint\bai1.4.dll
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\bai1.4.pdb
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\bai1.4.genruntimeconfig.cache
+D:\HuongDoiTuong\bai1.4\bai1.4\obj\Debug\net6.0\ref\bai1.4.dll
